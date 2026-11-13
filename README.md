@@ -24,7 +24,7 @@ https://docs.google.com/document/d/1fpFtgnnbcCLFlzBRkKFoCCNblL4o2eeFppCCLy19_Ac/
 ### 2. Video de sustentación
 
 Video explicativo del desarrollo del proyecto, las cuatro fases de la actividad y los resultados obtenidos mediante simulación de Monte Carlo.
-
+Enlace del Video Google Drive: 
 
 Enlace del Colab
 https://colab.research.google.com/drive/1TjTs9Ke9dg-9RfYO94R8W3h-XtCmVCyb?usp=sharing
