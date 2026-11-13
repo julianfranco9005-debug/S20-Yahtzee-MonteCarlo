@@ -18,13 +18,14 @@
 
 Informe técnico completo de la Evidencia de Aprendizaje 1, que contiene la metodología, implementación, resultados experimentales, análisis y conclusiones del proyecto.
 
-**[Consultar documento técnico en PDF](Documento_Tecnico_S20.pdf)**
+https://docs.google.com/document/d/1fpFtgnnbcCLFlzBRkKFoCCNblL4o2eeFppCCLy19_Ac/edit?usp=sharing
+
 
 ### 2. Video de sustentación
 
 Video explicativo del desarrollo del proyecto, las cuatro fases de la actividad y los resultados obtenidos mediante simulación de Monte Carlo.
 
-**[Ver video de sustentación en YouTube](PEGA_AQUI_EL_ENLACE_DEL_VIDEO)**
+
 
 ---
 
